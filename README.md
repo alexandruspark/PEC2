@@ -1,5 +1,5 @@
 # PEC2
-Formula 1 pit-stop checker depending on remaining fuel laps, tire type, tire wear and whether a safety car is deployed or not
+Formula 1 pit-stop checker depending on remaining fuel laps, tire type, tire wear and whether a safety car is deployed or not in C
 
 Example:
 INPUT
